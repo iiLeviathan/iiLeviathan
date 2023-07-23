@@ -26,8 +26,9 @@
 </div><br/>
 
 #### Um pouco sobre mim...
-<div> • 16y 🔥<br/>
+<div>
 • Brasileiro 🇧🇷 <br/>
 • Pretendo morar e trabalhar fora do país ✈️<br/>
 • Falo Inglês (🇺🇸) e estou aprendendo Italiano (🇮🇹) <br/>
 • Estudando programação por conta própria 👨‍💻 <br/>
+<div/>
