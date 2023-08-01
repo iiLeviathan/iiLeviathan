@@ -29,6 +29,6 @@
 <div>
 • Brasileiro 🇧🇷 <br/>
 • Pretendo morar e trabalhar fora do país ✈️<br/>
-• Falo Inglês (🇺🇸) e estou aprendendo Italiano (🇮🇹) <br/>
+• Falo Inglês 🇺🇸 e estou aprendendo Italiano 🇮🇹 <br/>
 • Estudando programação por conta própria 👨‍💻 <br/>
 <div/>
