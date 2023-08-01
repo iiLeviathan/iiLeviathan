@@ -10,6 +10,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iiLeviathan&layout=compact&langs_count=16&theme=dracula)
 
+![](https://hit.yhype.me/github/profile?user_id=96968715)
+
 ### Linguagens que eu utilizo:
 
 <div style="display:inline_block">
